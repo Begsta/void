@@ -3,5 +3,5 @@ print('goodbye')
 
 
 def func(smth):
-    c = 2*smth
+    c = 3*smth
     return c
