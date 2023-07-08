@@ -5,9 +5,9 @@ __pycache__/
 
 # C extensions
 *.so
-audio
-numpy_data
-secret.py
+#audio
+#numpy_data
+#secret.py
 
 # Distribution / packaging
 .Python
